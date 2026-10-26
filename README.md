@@ -11,7 +11,7 @@ The notebook covers:
 - the failure of the classical network with larger grayscale images, and the modern Hopfield network (update with a softmax over the similarities, log-sum-exp energy), which recalls them also from noisy and masked inputs
 - the role of the inverse temperature β: at high temperature the modern network ends up in metastable states
 
-The notebook comes from the Statistical Physics course of prof. S. Zapperi (University of Milan), and the theory parts are taken from the course material.
+The theory comes from the Statistical Physics course of prof. S. Zapperi (University of Milan).
 
 ## Usage
 
